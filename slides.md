@@ -342,13 +342,3 @@ leftAligned (monospace (fromString "code"))
 
 - ```<|``` is right-associative(meaning ```a |> b |> c |> d``` is a ```|> (b |> (c |> d))``` )
 
----
-
-### Use compiler to guide coding
-
----
-
-### Duplication over reusability
-
----
-
