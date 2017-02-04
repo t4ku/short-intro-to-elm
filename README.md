@@ -1,7 +1,7 @@
 # Short intro to Elm
 
 Slides from my talk about elm.
-https://speakerdeck.com/t4ku/short-intro-to-elm
+https://speakerdeck.com/t4ku/short-intro-to-elm-concepts
 
 ## Setup
 
